@@ -1,1 +1,1 @@
-cooderl/wewe-rss-sqlite:latest
+dannicool/docker-wechatbot-webhook
